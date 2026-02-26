@@ -3,7 +3,6 @@
 
 -  I’m currently learning at iCET **ICD 122 Batch**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
