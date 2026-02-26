@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ViNU5H</h1>
+<h1 align="center">Hi,I'm ViNU5H</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🌱 I’m currently learning at iCET **ICD 122 Batch**
+-  I’m currently learning at iCET **ICD 122 Batch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
