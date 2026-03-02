@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ViNU5H</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-<CENTER><p align="left"> <img src="https://komarev.com/ghpvc/?username=vinu5h&label=Profile%20views&color=0e75b6&style=flat" alt="vinu5h" /> </p></CENTER>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinu5h&label=Profile%20views&color=0e75b6&style=flat" alt="vinu5h" /> </p>
 
 - 🔭 I’m currently working on **improving my software engineering skills and building real-world projects**
 
