@@ -5,7 +5,7 @@
 <pre>
     📖 Student of iCET institute • Creative + tech-loving explorer  
  • UI/UX in progress
-    💻 System programming languages • DevOps 
+    💻 MySQL • JAVA 
     🎮 Music • Games • Anime • Code • Movies
     
 </pre>
