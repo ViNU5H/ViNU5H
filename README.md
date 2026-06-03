@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/ViNU5H/ViNU5H/blob/07b1d5eeb7b675aeeec0ed89735505c0bd4209cf/assets/VV.png" width="25%" align="right" />
+<img src="https://github.com/ViNU5H/ViNU5H/blob/47dc2fe1f8bba3369128414bc3a6fb13b70380b2/assets/zekrom-bw.jpg" width="25%" align="right" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&color=4452FD&center=true&multiline=true&width=450&height=65&lines=Hello+!;I'm+ViNCY%2C+Creative%2C+Tech-loving+explorer+" alt="Typing SVG" /></a>
 <br><br>
 <pre>
