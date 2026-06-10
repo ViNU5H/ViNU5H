@@ -13,7 +13,7 @@
     
 </pre>
 
-<img src= "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50"/>
+<img src= "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30"/>
 <br>
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
