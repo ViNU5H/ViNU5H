@@ -12,8 +12,8 @@
     🎮 Music • Games • Anime • Code • Movies
     
 </pre>
-<br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
+<img src= "https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="50"/>
 <br>
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
