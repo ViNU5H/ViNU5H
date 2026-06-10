@@ -1,5 +1,5 @@
 <div align="left">
-![](https://komarev.com/ghpvc/?username=ViNU5H&color=green)
+https://komarev.com/ghpvc/?username=ViNU5H&color=green
 </div>
 <div align="center">
 <img src="https://github.com/ViNU5H/ViNU5H/blob/dfbc11cc930dfb6089eaacfac368a683040274f7/assets/bulba.jpg" width="25%" align="right" />
