@@ -5,7 +5,7 @@
 <img src="https://github.com/ViNU5H/ViNU5H/blob/dfbc11cc930dfb6089eaacfac368a683040274f7/assets/bulba.jpg" width="25%" align="right" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&color=1E95FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello!;I'm+ViNCY%2C+Creative+and+Tech-Loving+Explorer" alt="Typing SVG" /></a>
 <pre>
-    📖 Student of iCET institute • Creative + tech-loving explorer  
+    📖 Student of iCET institute • Creative + tech-loving explorer
  • UI/UX in progress
     💻 MySQL • JAVA 
     🎮 Music • Games • Anime • Code • Movies
